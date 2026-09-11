@@ -67,8 +67,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sowmyas25&show_icons=true&theme=radical&hide_border=true" alt="Sowmya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmyas25&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Sowmyas25&theme=radical&hide_border=true" alt="Sowmya's GitHub Streak" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sowmyas25&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Sowmya's Trophies" width="48%" />
 </p>
 
 ---
