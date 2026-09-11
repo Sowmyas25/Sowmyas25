@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8A2BE2&height=200&section=header&text=Hi,%20I'm%20Sowmya%20👋&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Bengaluru,%20India&descSize=20&descAlign=50&descAlignY=75" alt="Sowmya's Profile Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8A2BE2&height=200&section=header&text=Hi,%20I'm%20Sowmya%20👋&fontSize=40&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Bengaluru,%20India&descSize=20&descAlign=50&descAlignY=75&descColor=ffffff" alt="Sowmya's Profile Banner" />
 </p>
 
 <h3 align="center">A passionate Full Stack Java Developer from Bengaluru, India</h3>
